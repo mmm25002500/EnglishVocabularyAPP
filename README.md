@@ -1,6 +1,6 @@
 # Learn English Vocabulary 學英文單字
-這是一款使用Java寫的Android APP，可以用他來學英文單字，目前也正在維護中，也有在定時更新。
-目前功能:
+這是一款使用Java寫的Android APP，可以用他來學英文單字，目前也正在維護中，也有在定時更新。<br>
+目前功能:<br>
 看中文答英文
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger)
